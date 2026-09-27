@@ -6,6 +6,9 @@ A lightweight, cross-platform Python utility for splitting 2-panel and 4-panel g
 
 Built for a simple workflow: take a combined image, split it into individual panels, and continue editing, publishing, or organizing the results.
 
+
+> **Language:** The current graphical interface is in Simplified Chinese. English interface support is planned for a future release.
+> 
 ## Features
 
 - Split 2-panel images vertically or horizontally
@@ -35,8 +38,7 @@ GridSplit separates the source image into individual image files.
 
 ![Example output](example-output.png)
 
-> Note: The current graphical interface is available in Simplified Chinese. English interface support is planned for a future release.
-## Requirements
+> ## Requirements
 
 - Python 3.10 or later
 - Pillow
