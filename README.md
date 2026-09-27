@@ -18,6 +18,24 @@ Built for a simple workflow: take a combined image, split it into individual pan
 - Tested on macOS
 - Designed to work on Windows and Linux with Python installed
 
+## Example
+
+### Input
+A 2-panel or 4-panel combined image can be used as the source image.
+
+![Example input](example-input.png)
+
+### Select a layout
+Choose the corresponding layout in the graphical interface.
+
+![Grid selection](grid-selection.png)
+
+### Output
+GridSplit separates the source image into individual image files.
+
+![Example output](example-output.png)
+
+> Note: The current graphical interface is available in Simplified Chinese. English interface support is planned for a future release.
 ## Requirements
 
 - Python 3.10 or later
